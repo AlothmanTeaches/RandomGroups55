@@ -10,6 +10,7 @@ public class RandomGroups55{
         System.out.println(readStu());
         System.out.println("V5");
         randomGroups(readStu(), 5);
+        System.out.println("second dev was here");
     }
 
     public static ArrayList<String> readStu(){
